@@ -1,5 +1,8 @@
 # Steam-Game-recommendation-Engine
-================================
+
+
+
+
 This project implements a recommendation engine for Steam games using
 collaborative filtering (ALS),
 content-based filtering (TF-IDF), and graph-based analysis with NetworkX.
